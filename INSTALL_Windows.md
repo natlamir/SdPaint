@@ -6,7 +6,7 @@ These instructions are for getting started with SDPaint on a Windows machine. As
 
 ### 1.) This Tool
 
-`git clone https://github.com/houseofsecrets/SdPaint`
+`git clone https://github.com/natlamir/SdPaint`
 
 ### 2.) The AI models
 
